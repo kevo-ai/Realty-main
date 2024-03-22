@@ -29,15 +29,16 @@
                 </button>
             </div>
         </div>
-        <div class="py-5">`</div>
+        <div class="py-1">`</div>
         <div>
             <div class="container">
                 <h2 class="text-center">{{ config('app.name') }}</h2>
-                <p class="text-center">We care about your </p>
-            </div>
+
+                <p class="text-center ">
+                    Our platform fosters seamless interactions between buyers and sellers, prioritizing transparency and efficiency to streamline property transactions. Through user-friendly interfaces and advanced security measures, we strive to instill trust and confidence in every real estate transaction, ensuring a reliable experience for all stakeholders.</p>            </div>
         </div>
 
-        <div class="py-5">`</div>
+        <div class="py-1">`</div>
 
         <div>
             <div class="container">
