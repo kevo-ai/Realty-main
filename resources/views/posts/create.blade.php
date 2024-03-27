@@ -48,11 +48,17 @@
                     <label for="floatingInput" class="text-muted">Title Deed Image</label>
                     <input type="file" class="form-control" id="floatingInput" name="deed_img" placeholder="Title Deed Image" >
                 </div>
+                
 
                 <div class="mb-3">
                     <label for="floatingInput" class="text-muted">Land Photo</label>
                     <input type="file" class="form-control" id="floatingInput" name="land_img" placeholder="Land Photo">
                 </div>
+                <div class="form-floating mb-3">
+                    <input type="text" class="form-control" id="floatingInput" name="registration_number" placeholder="Registration Number" required>
+                    <label for="floatingInput">Land Registration Number</label>
+                </div>
+
 
                 <div class="form-floating mb-3">
                     <textarea class="form-control" placeholder="Description" name="description" id="floatingTextarea2" style="height: 200px" required></textarea>
